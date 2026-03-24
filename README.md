@@ -2,7 +2,7 @@
 
 # 📝 To Do 
 
-### A production-ready REST API built with FastAPI & PostgreSQL
+### A production-ready built with FastAPI & PostgreSQL
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111.0-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -19,7 +19,7 @@
 
 ## 📖 About
 
-A fully-featured **Todo REST API** with user authentication, task management, pagination, and filtering. Built following best practices with clean, modular code and complete Swagger documentation.
+A fully-featured **Todo API** with user authentication, task management, pagination, and filtering. Built following best practices with clean, modular code and complete Swagger documentation.
 
 > ✅ Every user can only access their own tasks — fully secured with JWT tokens.
 
